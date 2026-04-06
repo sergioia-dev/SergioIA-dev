@@ -12,6 +12,12 @@ Currently focused on: **performance optimization**, **type-safe architectures**,
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioia-dev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioia-dev&layout=compact)
+### 🌱 Currently learning
+- Learning **Docker** and **Podman** for containerization.
+- Reading about Design patterns.
+- Improving my skills with **Spring**.
+
+### 📫 Find me at
+- [LinkedIn](https://www.linkedin.com/in/sergio-idarraga-aguirre-b8473a319/)
+- [Personal portfolio](www.sergioia.blog/portfolio)
+- [Email](mailto:sergioidarraga2110@gmail.com)
