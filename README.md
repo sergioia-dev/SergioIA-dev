@@ -13,5 +13,5 @@ Currently focused on: **performance optimization**, **type-safe architectures**,
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioIA-dev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioIA-dev&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioia-dev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioia-dev&layout=compact)
