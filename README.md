@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 I'm Sergio IA
 
-<!--
-**SergioIA-dev/SergioIA-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend & Cross-Platform Developer** building production-ready systems with Spring Boot and TypeScript. I turn complex problems into clean, maintainable code – whether it's a high-throughput REST API or a pixel-perfect Flutter mobile app.
 
-Here are some ideas to get you started:
+Currently focused on: **performance optimization**, **type-safe architectures**, and **reproducible dev environments** with Nix.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioIA-dev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioIA-dev&layout=compact)
